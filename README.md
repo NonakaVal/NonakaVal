@@ -12,15 +12,27 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL%20-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=1572B6)&nbsp;
 ![anaconda](https://img.shields.io/badge/-Anaconda%20-05122A?style=flat&logo=anaconda&logoColor=007ACC)&nbsp;
 ![jupyterlab](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 ![pycharm](https://img.shields.io/badge/-Pycharm%20-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;\
+![obsidian](https://img.shields.io/badge/-Obsidian%20-05122A?style=flat&logo=obsidian&logoColor=1572B6)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+---
 
+![pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=007ACC)&nbsp;
+![numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=007ACC)&nbsp;
+![dax](https://img.shields.io/badge/-DAX-05122A?style=flat&logo=powerbi&logoColor=007ACC)&nbsp;\
+![mat](https://img.shields.io/badge/-MatplotLib%20-729cff?style=flat&logo=python&logoColor=1c1b27)&nbsp;
+![seaborn](https://img.shields.io/badge/-Seaborn%20-729cff?style=flat&logo=python&logoColor=1c1b27)&nbsp;
+![Plotly](https://img.shields.io/badge/-Plotly%20-729cff?style=flat&logo=plotly&logoColor=1c1b27)&nbsp;
+![scipy](https://img.shields.io/badge/-Scipy%20-05122A?style=flat&logo=scipy&logoColor=1572B6)&nbsp;
+![scikit](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn&logoColor=1572B6)&nbsp;
 
 
 
