@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL%20-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=1572B6)&nbsp;
 ![anaconda](https://img.shields.io/badge/-Anaconda%20-05122A?style=flat&logo=anaconda&logoColor=007ACC)&nbsp;
 ![jupyterlab](https://img.shields.io/badge/-Jupyter%20Lab-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
