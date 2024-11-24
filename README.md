@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
+
 
 
 Bem vindo, me chamo **Valdenir Nonaka**, Estudo Ciencia de Dados e Estatística.
@@ -50,5 +50,7 @@ Skills
   <img src="https://img.shields.io/badge/-youtube-ff0000?style=flat-square&labelColor=%20ff0000&logo=youtube&logoColor=white&link=LINK-DO-SEU-INSTAGRAM alt="Instagram"/></a>
 </p>
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
 
 
