@@ -5,7 +5,9 @@
 Bem vindo, me chamo **Valdenir Nonaka**, Estudo Ciencia de Dados e Estatística.
 
 
-Graduando em **Ciência da Computação** e Ensinando IAs a como roubar meu emprego.
+Graduando em **Ciência da Computação** 
+
+Ensinando IAs a como roubar meu emprego.
 
 
 
