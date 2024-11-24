@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
 
 
 Bem vindo, me chamo **Valdenir Nonaka**, Estudo Ciência de Dados e Estatística.
@@ -20,6 +20,16 @@ Graduando em **Ciência da Computação** e Ensinando IAs a como roubar meu empr
 <p align="left">
   💌 Minhas Redes: ⤵️
 </p>
+
+---
+
+<a href="https://linktr.ee/NonakaVal">
+  <img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Logo.png" alt="Texto alternativo" style="width:150px; height:auto;">
+</a>
+
+
+---
+
 
 <p align="left">
   <a href="mailto:valdenirnonaka@gmail.com" title="Gmail">
