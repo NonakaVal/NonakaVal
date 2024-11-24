@@ -2,8 +2,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 
-Bem vindo, me chamo **Valdenir Nonaka**, Estudo Ciência de Dados e faço muitas Pesquisas
-Graduando em **Ciência da Computação** e Ensinando IAs como roubar meu emprego.
+Bem vindo, me chamo **Valdenir Nonaka**, Estudo Ciência de Dados e Estatística.
+
+
+Graduando em **Ciência da Computação** e Ensinando IAs a como roubar meu emprego.
 
 
 
