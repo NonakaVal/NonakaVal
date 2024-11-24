@@ -9,7 +9,9 @@ Graduando em **Ciência da Computação**
 
 Ensinando IAs a como roubar meu emprego.
 
+---
 
+Skills
 
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
@@ -18,12 +20,12 @@ Ensinando IAs a como roubar meu emprego.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-
+---
 <p align="left">
-  💌 Minhas Redes: ⤵️
+ Minhas Redes: ⤵️
 </p>
 
----
+
 
 <a href="https://linktr.ee/NonakaVal">
   <img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Logo.png" alt="Texto alternativo" style="width:150px; height:auto;">
