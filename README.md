@@ -1,6 +1,6 @@
 
 Seja Bem vindo, sou apenas um cara apaixonado por tecnologia e pesquisa, com o hábito de aprender coisas sem qualquer motivo aparente. 
-muitas do que subi aqui não passa disso. mas não me arrependo de nada kakaka
+muito do que subi aqui não passa disso. mas não me arrependo de nada kakaka
 
 
 
