@@ -22,7 +22,6 @@ muito do que subi aqui não passa disso. mas não me arrependo de nada kakaka
   ![Mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=0D1117)&nbsp;
   ![AI](https://img.shields.io/badge/-CREWAI-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0D1117)&nbsp;
   ![STREAM](https://img.shields.io/badge/-STREAMLIT-0D1117?style=for-the-badge&logo=STREAMLIT&logoColor=ffffff&labelColor=0D1117)&nbsp;
-  
   ![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=bi&labelColor=0D1117)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
