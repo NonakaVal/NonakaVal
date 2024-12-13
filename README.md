@@ -1,5 +1,7 @@
 
-Seja Bem vindo, sou apenas um cara apaixonado por tecnologia e pesquisa.
+Seja Bem vindo, sou apenas um cara apaixonado por tecnologia e pesquisa, e o hábito de aprender coisas sem qualquer motivo aparente. 
+muitas do que subi aqui não passa disso. mas não me arrependo de nada kakaka
+
 
 
 
