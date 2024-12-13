@@ -1,14 +1,16 @@
 
+Seja Bem vindo, sou apenas um cara apaixonado por tecnologia e pesquisa.
 
 
 
-Bem vindo, me chamo **Valdenir Nonaka**, 
 
-Estudo Ciencia de Dados e Estatística, Graduando em **Ciencia da Computação** enquanto ensino IAs a como roubar meu emprego.
+
+
+
 
 ---
 
-Skills
+Skill
 
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
@@ -24,13 +26,13 @@ Skills
  Minhas Redes: ⤵️
 </p>
 
-
+---
 
 <a href="https://linktr.ee/NonakaVal">
-  <img src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Logo.png" alt="Texto alternativo" style="width:150px; height:auto;">
+  <img src="https://i.imgur.com/jCr4WhZ.png" alt="Texto alternativo" style="width:170px; height:auto;">
 </a>
 
-
+---
 
 
 <p align="left">
