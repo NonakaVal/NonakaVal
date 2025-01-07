@@ -2,8 +2,7 @@
 Seja Bem vindo, sou apenas um cara apaixonado por tecnologia e pesquisa, com o hábito de aprender coisas sem qualquer motivo aparente. 
 muito do que subi aqui não passa disso. mas não me arrependo de nada kakaka
 
-
-
+Graduando em Ciencia da Computação mas já com diversas formações em  Ciencia de dados \n
 
 
 
