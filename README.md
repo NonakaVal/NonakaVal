@@ -5,7 +5,7 @@ muito do que subi aqui não passa disso. mas não me arrependo de nada kakaka
 
 Graduando em Ciencia da Computação mas já com diversas formações em  Ciencia de dados \n
 <p align="center">
-  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" />
+  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="1000" />
 </p>
 
 
