@@ -4,7 +4,7 @@ Seja Bem vindo, Me chamo Valdenir NonakA e sou Apaixonado por ciência, tecnolog
 muito do que subi aqui não passa disso. mas não me arrependo de nada kakak, Atualmente graduando em Ciencia da Computação mas já com diversas formações em  Ciencia de dados \n
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="600" />
+  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="700" />
 </p>
 
 
