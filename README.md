@@ -9,7 +9,6 @@
 
 
 ---
-## 🧠 Skills
 
 **Análise de Dados**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +40,7 @@
 
 ---
 
-<h2 align="center">📬 Contato</h2>
+<h2 align="center">Contato</h2>
 
 <p align="center">
   <a href="mailto:valdenirnonaka@gmail.com" title="Gmail">
