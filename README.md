@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=1000&pause=500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Me+chamo+Valdenir+Nonaka%3B;Sou+apenas+um+cara+apaixonado+por+tecnologia+e+pesquisa%2C;com+o+h%C3%A1bito+de+aprender+coisas+sem+qualquer+motivo+aparente.%3B;Muito+do+que+subi+aqui+n%C3%A3o+passa+disso.+Mas+n%C3%A3o+me+arrependo+de+nada%2C+kakaka" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=1000&pause=500&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Me+chamo+Valdenir+Nonaka%3B;Sou+apenas+um+cara+apaixonado+por+tecnologia+e+pesquisa%2C;com+o+h%C3%A1bito+de+aprender+coisas+sem+qualquer+motivo+aparente.%3B;Muito+do+que+subi+aqui+n%C3%A3o+passa+disso.+Mas+n%C3%A3o+me+arrependo+de+nada%2C+kakaka" width="80%" />
 </h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="500" />
 </p>
+
+<h2 align="center" style="color: black;">Seja bem-vindo!</h2>
 
 ---
 
