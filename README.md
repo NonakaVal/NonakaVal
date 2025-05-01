@@ -34,10 +34,9 @@
 
 <img src="https://i.imgur.com/LAntRSe.gif" align="center" width="230" />
 
-
 <br><br> <!-- Espaço adicionado aqui -->
 
----
+## Minhas Redes 
 
 <p align="center">
   <a href="https://linktr.ee/NonakaVal" target="_blank">
