@@ -1,13 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=450&size=34&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Seja+bem+vindo%2C;Me+chamo+Valdenir+Nonaka%2C+e+espero+que+encontre+algo+%C3%BAtil.%3B;Segue+abaixo+minhas+skills." width="60%" />
-</h1>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="450" />
-</p>
-
-
----
 
 **Análise de Dados**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
