@@ -1,9 +1,12 @@
 
+
 Seja Bem vindo, sou apenas um cara apaixonado por tecnologia e pesquisa, com o hábito de aprender coisas sem qualquer motivo aparente. 
 muito do que subi aqui não passa disso. mas não me arrependo de nada kakaka
 
 Graduando em Ciencia da Computação mas já com diversas formações em  Ciencia de dados \n
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" />
+</p>
 
 
 
@@ -11,23 +14,24 @@ Graduando em Ciencia da Computação mas já com diversas formações em  Cienci
 
 ---
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
-
-
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![obsidian](https://img.shields.io/badge/-OBSIDIAN-0D1117?style=for-the-badge&logo=obsidian&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![sheets](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=googlesheets&logoColor=34a853&labelColor=0D1117)&nbsp;
   ![pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=ffffff&labelColor=0D1117)&nbsp;
+  ![sheets](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=googlesheets&logoColor=34a853&labelColor=0D1117)&nbsp;
   ![Mysql](https://img.shields.io/badge/-JupyterLab-0D1117?style=for-the-badge&logo=jupyter&logoColor=ffffff&labelColor=0D1117)&nbsp;
   ![AI](https://img.shields.io/badge/-CREWAI-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0D1117)&nbsp;
   ![STREAM](https://img.shields.io/badge/-STREAMLIT-0D1117?style=for-the-badge&logo=STREAMLIT&logoColor=ffffff&labelColor=0D1117)&nbsp;
   ![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=bi&labelColor=0D1117)&nbsp;
   ![Mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=0D1117)&nbsp;
+
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=tec&logoColor=ffffff&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=tec&logoColor=ffffff&labelColor=0D1117)&nbsp;
+
+
+  ![obsidian](https://img.shields.io/badge/-OBSIDIAN-0D1117?style=for-the-badge&logo=obsidian&labelColor=0D1117&textColor=0D1117)&nbsp;
+  
+
 
 
 
@@ -37,7 +41,7 @@ Graduando em Ciencia da Computação mas já com diversas formações em  Cienci
 </p>
 
 ---
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
 
 <p align="left">
   <a href="mailto:valdenirnonaka@gmail.com" title="Gmail">
