@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=450&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Seja+bem+vindo%2C;Me+chamo+Valdenir+Nonaka%2C+e+to+upando+minhas+skills+em+dados.%3B;tambémm+gasto+muito+tempo+escrevendo+sobre+muita+coisa%2C+e+tamb%C3%A9m+fa%C3%A7o+uns+videos+por+ai" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=450&size=29&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Seja+bem+vindo%2C;Me+chamo+Valdenir+Nonaka%2C+e+to+upando+minhas+skills+em+dados.%3B;tambémm+gasto+muito+tempo+escrevendo+sobre+muita+coisa%2C+e+tamb%C3%A9m+fa%C3%A7o+uns+videos+por+ai" width="80%" />
 </h1>
 
 <p align="center">
