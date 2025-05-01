@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="450" />
+  <img src="https://media1.tenor.com/m/VC6ap4qAWZsAAAAC/bubble-reaction.gif" alt="gif" width="370" />
 </p>
 
 
