@@ -1,3 +1,13 @@
+## Minhas Redes 
+
+<p align="center">
+  <a href="https://linktr.ee/NonakaVal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,gmail" alt="Skillicons" />
+  </a>
+</p>
+
+
+## Skills
 
 **Análise de Dados**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -25,14 +35,4 @@
 <img src="https://i.imgur.com/LAntRSe.gif" align="center" width="230" />
 
 <br><br> <!-- Espaço adicionado aqui -->
-
-## Minhas Redes 
-
-<p align="center">
-  <a href="https://linktr.ee/NonakaVal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,gmail" alt="Skillicons" />
-  </a>
-</p>
-
-
 
