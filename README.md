@@ -39,25 +39,11 @@
 
 ---
 
-<h2 align="center">Contato</h2>
-
 <p align="center">
-  <a href="mailto:valdenirnonaka@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/valdenir-nonaka-5433712a8/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5515998304344" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61555190195313" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/nonaka.val/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@nonaka96" title="YouTube">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://linktr.ee/NonakaVal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,gmail" alt="Skillicons" />
   </a>
 </p>
+
+
+
