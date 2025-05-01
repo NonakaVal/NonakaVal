@@ -38,12 +38,6 @@ Graduando em Ciencia da Computação mas já com diversas formações em  Cienci
 
 ---
 
-<a href="https://linktr.ee/NonakaVal">
-  <img src="https://i.imgur.com/jCr4WhZ.png" alt="Texto alternativo" style="width:170px; height:auto;">
-</a>
-
----
-
 
 <p align="left">
   <a href="mailto:valdenirnonaka@gmail.com" title="Gmail">
