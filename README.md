@@ -1,15 +1,5 @@
 Usando Python para fugir do Excel, e o Excel para fugir do Python.
 
-## Minhas Redes 
-
-<p align="center">
-  <a href="https://linktr.ee/NonakaVal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,gmail" alt="Skillicons" />
-  </a>
-</p>
-
-
-
 ## Skills
 
 **Análise de Dados**  
@@ -38,4 +28,14 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 <img src="https://i.imgur.com/LAntRSe.gif" align="center" width="230" />
 
 <br><br> <!-- Espaço adicionado aqui -->
+## Minhas Redes 
+
+<p align="center">
+  <a href="https://linktr.ee/NonakaVal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,gmail" alt="Skillicons" />
+  </a>
+</p>
+
+
+
 
