@@ -25,7 +25,7 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 
-<img src="https://i.imgur.com/LAntRSe.gif" align="center" width="230" />
+<img src="https://i.imgur.com/LAntRSe.gif" align="center" width="300" />
 
 <br><br> <!-- Espaço adicionado aqui -->
 ## Minhas Redes 
