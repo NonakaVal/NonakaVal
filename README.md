@@ -2,7 +2,7 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 
 ## Skills
 
-**Análise de Dados**  
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
