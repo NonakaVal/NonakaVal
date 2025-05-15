@@ -16,18 +16,18 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🛒 E-commerce & Marketplace
+## 🛠️ Ferramentas e Plataformas
+##### 🛒 E-commerce & Marketplace
 ![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black)
 ![Olist](https://img.shields.io/badge/Olist-1A73E8?style=for-the-badge&logoColor=white)
 
-#### 🛠️ Ferramentas
+##### Código e Gestão
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-
-
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 #### Skills Secundárias.
 
