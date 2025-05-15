@@ -44,7 +44,7 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 
 ---
 
-<img src="https://i.imgur.com/LAntRSe.gif" align="center" width="300" />
+<img src="https://i.imgur.com/SKvajY3.gif" align="center" width="300" />
 
 ---
 
