@@ -42,9 +42,7 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 
 
 
----
 
-<img src="https://i.imgur.com/E8Y38Kf.gif" align="center" width="300" />
 
 ---
 
@@ -55,3 +53,8 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
     <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,gmail" alt="Skillicons" />
   </a>
 </p>
+
+
+---
+
+<img src="https://i.imgur.com/E8Y38Kf.gif" align="center" width="300" />
