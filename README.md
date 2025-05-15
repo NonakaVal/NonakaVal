@@ -4,7 +4,7 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 
 ## ⚙️ Skills Técnicas
 
-##### 📊 Data Science & Análise
+### 📊 Data Science & Análise
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +13,7 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
 
-##### 📈 BI & Planilhas
+### 📈 BI & Planilhas
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
