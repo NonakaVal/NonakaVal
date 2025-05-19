@@ -2,7 +2,6 @@ Usando Python para fugir do Excel, e o Excel para fugir do Python.
 
 ---
 
-## 🌐 Minhas Redes
 
 <p align="center">
   <a href="https://linktr.ee/NonakaVal" target="_blank">
