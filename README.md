@@ -1,6 +1,5 @@
-Usando Python para fugir do Excel, e o Excel para fugir do Python.
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NonakaVal&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 
 <p align="center">
