@@ -4,7 +4,7 @@
 │
 ├─▣ <a href="https://nonakaval.github.io/nonaka/">Portifolio</a>
 ├────────────────▣ <a href="https://nonakaval.github.io">Personal Blog</a>
-├─────────────────────▣ Posts in pt-br and en (for now more pt)
+├────────────────▣ Posts in pt-br and en (for now more pt)
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
