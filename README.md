@@ -8,8 +8,8 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.youtube.com/@nonaka96">YouTube</a>
 ├─◈ <a href="https://www.instagram.com/nonaka.val">Instagram</a>
+├─◈ <a href="https://www.youtube.com/@nonaka96">YouTube</a>
 ├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
 ├─◈ <a href="https://medium.com/@valdenirnonaka">Medium</a>
 │
