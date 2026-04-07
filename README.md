@@ -9,7 +9,7 @@
 └────────────────────────────────────────▰▰▰
 ┌──┤ Sites ├─────────▰▰▰
 │
-├─▣ <a href="https://nonakaval.github.io">Personal Blog</a>
+├─▣ <a href="https://nonakaval.github.io">Not A Dev - Personal Blog</a>
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
