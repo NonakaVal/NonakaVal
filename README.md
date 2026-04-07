@@ -1,5 +1,10 @@
 <pre>
 
+┌──┤ About Me ├─────────▰▰▰
+│
+├─▣ Study and research drive me. Technology is my tool to explore and understand the vast knowledge humanity has built. I question everything, because I believe no truth is absolute — and without understanding the “why,” we don’t truly know anything.
+└───────────────────────────────▰▰▰
+  
 ┌──┤ Sites ├─────────▰▰▰
 │
 ├─▣ <a href="https://nonakaval.github.io">Personal Blog</a>
