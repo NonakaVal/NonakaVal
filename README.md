@@ -1,4 +1,3 @@
-<pre>
 <div style="font-family: monospace; white-space: pre-wrap;">
 ┌───[ About Me ]──────────────────────────▰▰▰
 
