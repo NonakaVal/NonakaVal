@@ -1,8 +1,11 @@
+<pre>
 <div style="font-family: monospace; white-space: pre-wrap;">
 ┌───[ About Me ]──────────────────────────▰▰▰
 
-Without understanding the "why,"
-we don’t truly know anything.
+Study and research drive me. Technology is my tool to explore and understand
+the vast knowledge humanity has built. I question everything, because I
+believe no truth is absolute — and without understanding the "why," we
+don’t truly know anything.
 
 └────────────────────────────────────────▰▰▰
 </div>
@@ -20,6 +23,7 @@ we don’t truly know anything.
 │
 └───────────────────────────────▰▰▰
 
+</pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NonakaVal&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
