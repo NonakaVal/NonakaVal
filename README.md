@@ -1,4 +1,4 @@
-┌───[ About Me ]──────────────────────────▰▰▰
+┌───[ About Me ]───────────────────────▰▰▰
 
 Study and research drive me. Technology is my tool to explore and understand the vast knowledge humanity has built. I question everything, because I believe no truth is absolute — and without understanding the "why," we don’t truly know anything. 
 
@@ -6,12 +6,12 @@ I'm also an amateur writer in my spare time.
 
 <pre>
 <div style="font-family: monospace; white-space: pre-wrap;">
-────────────────────────────────────────▰▰▰
+────────────────────────────────▰▰▰
 </div>
 ┌──┤ Sites ├─────────▰▰▰
 │
 ├─▣ <a href="https://nonakaval.github.io">Not A Dev</a> - Personal Blog
-└───────────────────────────────▰▰▰
+└───────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -23,7 +23,7 @@ I'm also an amateur writer in my spare time.
 
 
 </pre>
-└───────────────────────────────▰▰▰
+└──────────────────────────────▰▰▰
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NonakaVal&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
