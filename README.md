@@ -1,6 +1,6 @@
 ┌───[ About Me ]───────────────────────▰▰▰
 
-Study and research drive me. Technology is my tool to explore and understand the vast knowledge humanity has built. I question everything, because I believe no truth is absolute — and without understanding the "why," we don’t truly know anything. 
+Study and research drive me. Technology is my tool to explore and understand the vast knowledge humanity has built. I question everything and believe no truth is absolute — and without understanding the "why," we don’t truly know anything. 
 
 I'm also an amateur writer in my spare time.
 
