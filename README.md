@@ -1,13 +1,11 @@
-<pre>
-<div style="font-family: monospace; white-space: pre-wrap;">
 ┌───[ About Me ]──────────────────────────▰▰▰
-
 Study and research drive me. Technology is my tool to explore and understand
 the vast knowledge humanity has built. I question everything, because I
 believe no truth is absolute — and without understanding the "why," we
 don’t truly know anything.
-
-└────────────────────────────────────────▰▰▰
+<pre>
+<div style="font-family: monospace; white-space: pre-wrap;">
+────────────────────────────────────────▰▰▰
 </div>
 ┌──┤ Sites ├─────────▰▰▰
 │
@@ -21,9 +19,10 @@ don’t truly know anything.
 ├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
 ├─◈ <a href="https://medium.com/@valdenirnonaka">Medium</a>
 │
-└───────────────────────────────▰▰▰
+
 
 </pre>
+└───────────────────────────────▰▰▰
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NonakaVal&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
