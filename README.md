@@ -4,7 +4,9 @@ Study and research drive me. Technology is my tool to explore and understand the
 
 without understanding the "why," we don’t truly know anything. 
 
-I'm also an amateur writer in my spare time.
+I'm also an amateur writer in my spare time. 
+
+and love cats.
 
 <pre>
 <div style="font-family: monospace; white-space: pre-wrap;">
